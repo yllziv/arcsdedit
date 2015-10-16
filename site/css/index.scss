@@ -1,0 +1,28 @@
+.myhead{
+  text-align: center;
+}
+
+#contentLeft{
+}
+
+#contentRight{
+  border-color: #0a6aa1;
+  border-left-style: solid;
+  border-left-width: 2px;
+}
+
+.imgbox{
+
+}
+.fileimg {
+  position:relative;
+}
+.imgtext{
+  margin-top: 5px;
+  text-align: center;
+}
+.imgli{
+  list-style-type: none;
+  position: relative;
+  display:inline-block; // 添加这一行后，文字才会位于图片正下面中间
+}

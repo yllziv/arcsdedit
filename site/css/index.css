@@ -1,0 +1,19 @@
+.myhead {
+  text-align: center; }
+
+#contentRight {
+  border-color: #0a6aa1;
+  border-left-style: solid;
+  border-left-width: 2px; }
+
+.fileimg {
+  position: relative; }
+
+.imgtext {
+  margin-top: 5px;
+  text-align: center; }
+
+.imgli {
+  list-style-type: none;
+  position: relative;
+  display: inline-block; }
